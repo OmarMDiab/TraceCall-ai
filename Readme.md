@@ -1,4 +1,4 @@
-# TraceCall-ai
+# TraceCall-ai (English & Arabic)
 
 This project automates customer support call quality analysis by converting call recordings into fully structured QA reports, including:
 
@@ -71,4 +71,5 @@ A concise example of an automatically generated QA report produced by CallSense 
 📄 **[Call*Report_2*(Detailed_more_spaced).pdf](<./Call_Report_2_(Detailed_more_spaced).pdf>)**
 
 > This report was generated directly from the sample call audio using the full CallSense AI analysis pipeline.
+
 
