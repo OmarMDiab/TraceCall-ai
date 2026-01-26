@@ -59,7 +59,7 @@ A real **11:30 mins** customer support call recording used to generate the examp
 
 ▶️ **[Customer_Support_Call_1.wav](./Customer_Support_Call_1.wav)**
 
-> This audio file is provided for demonstration purposes and is analyzed automatically by CallSense AI to generate structured QA, sentiment, and compliance insights
+> This audio file is provided for demonstration purposes and is analyzed automatically by TraceCall-ai to generate structured QA, sentiment, and compliance insights
 
 ## 📄 Sample AI-Generated Call Report
 
@@ -70,6 +70,7 @@ A concise example of an automatically generated QA report produced by CallSense 
 
 📄 **[Call*Report_2*(Detailed_more_spaced).pdf](<./Call_Report_2_(Detailed_more_spaced).pdf>)**
 
-> This report was generated directly from the sample call audio using the full CallSense AI analysis pipeline.
+> This report was generated directly from the sample call audio using the full TraceCall-ai analysis pipeline.
+
 
 
