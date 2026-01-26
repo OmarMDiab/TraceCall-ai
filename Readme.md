@@ -15,7 +15,9 @@ This project automates customer support call quality analysis by converting call
 - Process improvement insights
 
 It is designed for QA teams, compliance teams, contact centers, and operations leaders who need scalable, consistent, and auditable call reviews.
-**Transforming raw calls --> actionable operational insights.**
+
+
+**Transforming raw calls --> Actionable operational insights.**
 
 ## Architecture & Workflow
 
@@ -64,6 +66,9 @@ A real **11:30 mins** customer support call recording used to generate the examp
 A concise example of an automatically generated QA report produced by CallSense AI:
 
 📄 **[Call*Report_1*(Brief).pdf](<./Call_Report_1_(Brief).pdf>)**
+
+
 📄 **[Call*Report_2*(Detailed_more_spaced).pdf](<./Call_Report_2_(Detailed_more_spaced).pdf>)**
 
 > This report was generated directly from the sample call audio using the full CallSense AI analysis pipeline.
+
