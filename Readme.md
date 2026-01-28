@@ -63,7 +63,7 @@ A real **11:30 mins** customer support call recording used to generate the examp
 
 ## 📄 Sample AI-Generated Call Report
 
-A concise example of an automatically generated QA report produced by CallSense AI:
+A concise example of an automatically generated QA report produced by TraceCall-ai:
 
 📄 **[Call*Report_1*(Brief).pdf](<./Call_Report_1_(Brief).pdf>)**
 
