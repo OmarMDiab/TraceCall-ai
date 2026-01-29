@@ -16,6 +16,8 @@ It is designed for QA teams, compliance teams, contact centers, and operations l
 
 ![Docker_environment](Assets/Docker_dev.png)
 
+![NGrok_Domain](Assets/Ngrok_Domain.png)
+
 - Model-agnostic **(ASR & LLMs)**
 
 - Evidence-based (timestamps for every claim)
