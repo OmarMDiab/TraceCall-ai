@@ -46,18 +46,14 @@ It is designed for QA teams, compliance teams, contact centers, and operations l
 
 - 📧 Automated email delivery to QC teams using **Gmail API**.
 
-## 🎧 Sample Customer Support Call
+---
+
+### 🎧 Sample Customer Support Call
 
 A real **11:30 mins** customer support call recording used to generate the example QA report:
 
 ▶️ **[Customer_Support_Call_1.wav](Sample_Calls/Technical_support_Sample_Call.wav)**
 
-> This audio file is provided for demonstration purposes and is analyzed automatically by TraceCall-ai to generate structured QA, sentiment, and compliance insights
-
-## 📄 Sample AI-Generated Call Report
-
-A concise example of an automatically generated QA report produced by TraceCall-ai:
+### Sample AI-Generated Call Report
 
 📄 **[Call_Report.pdf](Sample_reports/Sample_Report.pdf)**
-
-> This report was generated directly from the sample call audio using the full TraceCall-ai analysis pipeline.
