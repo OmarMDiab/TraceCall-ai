@@ -16,12 +16,11 @@ This project automates customer support call quality analysis by converting call
 
 It is designed for QA teams, compliance teams, contact centers, and operations leaders who need scalable, consistent, and auditable call reviews.
 
-
 **Transforming raw calls --> Actionable operational insights.**
 
 ## Architecture & Workflow
 
-![CallSense AI Workflow](./workflow.png)
+![CallSense AI Workflow](n8n\workflow.png)
 
 #### Key Design Principles
 
@@ -57,7 +56,7 @@ It is designed for QA teams, compliance teams, contact centers, and operations l
 
 A real **11:30 mins** customer support call recording used to generate the example QA report:
 
-▶️ **[Customer_Support_Call_1.wav](./Customer_Support_Call_1.wav)**
+▶️ **[Customer_Support_Call_1.wav](Sample_Calls\Customer_Support_Call_1.wav)**
 
 > This audio file is provided for demonstration purposes and is analyzed automatically by TraceCall-ai to generate structured QA, sentiment, and compliance insights
 
@@ -65,12 +64,8 @@ A real **11:30 mins** customer support call recording used to generate the examp
 
 A concise example of an automatically generated QA report produced by TraceCall-ai:
 
-📄 **[Call*Report_1*(Brief).pdf](<./Call_Report_1_(Brief).pdf>)**
+📄 **[Call*Report_1*(Brief).pdf](<Sample_reportts\Call_Report_1_(Brief).pdf>)**
 
-
-📄 **[Call*Report_2*(Detailed_more_spaced).pdf](<./Call_Report_2_(Detailed_more_spaced).pdf>)**
+📄 **[Call*Report_2*(Detailed_more_spaced).pdf](<Sample_reportts\Call_Report_2_(Detailed_more_spaced).pdf>)**
 
 > This report was generated directly from the sample call audio using the full TraceCall-ai analysis pipeline.
-
-
-
