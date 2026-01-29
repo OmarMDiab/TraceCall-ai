@@ -20,7 +20,7 @@ It is designed for QA teams, compliance teams, contact centers, and operations l
 
 ## Architecture & Workflow
 
-![CallSense AI Workflow](Assets\workflow.png)
+![CallSense AI Workflow](Assets/workflow.png)
 
 #### Key Design Principles
 
