@@ -64,8 +64,8 @@ A real **11:30 mins** customer support call recording used to generate the examp
 
 A concise example of an automatically generated QA report produced by TraceCall-ai:
 
-📄 **[Call*Report_1*(Brief).pdf](<Sample_reportts/Call_Report_1_(Brief).pdf>)**
+📄 **[Call*Report_1*(Brief).pdf](<Sample_reports/Call_Report_1_(Brief).pdf>)**
 
-📄 **[Call*Report_2*(Detailed_more_spaced).pdf](<Sample_reportts/Call_Report_2_(Detailed_more_spaced).pdf>)**
+📄 **[Call*Report_2*(Detailed_more_spaced).pdf](<Sample_reports/Call_Report_2_(Detailed_more_spaced).pdf>)**
 
 > This report was generated directly from the sample call audio using the full TraceCall-ai analysis pipeline.
