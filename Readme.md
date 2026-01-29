@@ -1,50 +1,42 @@
 # TraceCall-ai (English & Arabic)
 
-This project automates customer support call quality analysis by converting call recordings into fully structured QA reports, including:
-
-- Agent performance scoring
-
-- Customer sentiment analysis
-
-- Compliance & risk detection
-
-- Timestamp-linked evidence
-
-- Coaching recommendations
-
-- Process improvement insights
+This project automates customer support call quality analysis by converting call recordings into fully structured QA reports.
 
 It is designed for QA teams, compliance teams, contact centers, and operations leaders who need scalable, consistent, and auditable call reviews.
 
-**Transforming raw calls --> Actionable operational insights.**
+#### **Transforming raw calls --> Actionable operational insights.**
 
 ## Architecture & Workflow
 
-![CallSense AI Workflow](Assets/workflow.png)
+![TraceCall-ai Workflow](Assets/workflow.png)
 
 #### Key Design Principles
 
 - Modular & containerized
 
-- Model-agnostic (ASR & LLMs)
+![Docker_environment](Assets/Docker_dev.png)
+
+- Model-agnostic **(ASR & LLMs)**
 
 - Evidence-based (timestamps for every claim)
-
-- Compliance-aware by design
+  ![Time_stamps_Refrence](Assets/Timestamps-refrence.jpeg)
 
 ## Key Capabilities
 
-- 🎙 High-accuracy ASR using **NVIDIA Whisper** (Docker container).
+- 🎙 High-accuracy ASR using **NVIDIA Whisper** (🐋 Docker container built from Scratch)
+  - **Input:** .Wav files,
+  - **Output:** .Json response
+  - **API:** FASTAPI
 
 - ⏱ Precise timestamp segmentation (30s timestamps).
 
-- 🤖 Deep conversational analysis using **qwen3-next-80b-a3b-instruct**.
+- Deep conversational analysis using **qwen3-next-80b-a3b-instruct: Ultra-long-context**.
 
 - 📊 Agent performance scoring (0->10).
 
 - 😊 Customer sentiment & satisfaction prediction.
 
-- ⚠ Compliance & operational risk detection.
+- ⚠️ Compliance & operational risk detection.
 
 - 🧾 Audit-ready structured JSON - split information to different teams depending on interest.
 
@@ -56,7 +48,7 @@ It is designed for QA teams, compliance teams, contact centers, and operations l
 
 A real **11:30 mins** customer support call recording used to generate the example QA report:
 
-▶️ **[Customer_Support_Call_1.wav](Sample_Calls/Customer_Support_Call_1.wav)**
+▶️ **[Customer_Support_Call_1.wav](Sample_Calls/Technical_support_Sample_Call.wav)**
 
 > This audio file is provided for demonstration purposes and is analyzed automatically by TraceCall-ai to generate structured QA, sentiment, and compliance insights
 
@@ -64,8 +56,6 @@ A real **11:30 mins** customer support call recording used to generate the examp
 
 A concise example of an automatically generated QA report produced by TraceCall-ai:
 
-📄 **[Call*Report_1*(Brief).pdf](<Sample_reports/Call_Report_1_(Brief).pdf>)**
-
-📄 **[Call*Report_2*(Detailed_more_spaced).pdf](<Sample_reports/Call_Report_2_(Detailed_more_spaced).pdf>)**
+📄 **[Call_Report.pdf](Sample_reports/Sample_Report.pdf)**
 
 > This report was generated directly from the sample call audio using the full TraceCall-ai analysis pipeline.
