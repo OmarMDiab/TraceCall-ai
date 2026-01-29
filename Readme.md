@@ -16,6 +16,7 @@ It is designed for QA teams, compliance teams, contact centers, and operations l
 
 ![Docker_environment](Assets/Docker_dev.png)
 
+- Ngrok Virtual domain
 ![NGrok_Domain](Assets/Ngrok_Domain.png)
 
 - Model-agnostic **(ASR & LLMs)**
@@ -57,3 +58,4 @@ A real **11:30 mins** customer support call recording used to generate the examp
 ### Sample AI-Generated Call Report
 
 📄 **[Call_Report.pdf](Sample_reports/Sample_Report.pdf)**
+
